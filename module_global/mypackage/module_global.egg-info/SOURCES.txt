@@ -1,0 +1,8 @@
+setup.py
+mypackage/module_global.egg-info/PKG-INFO
+mypackage/module_global.egg-info/SOURCES.txt
+mypackage/module_global.egg-info/dependency_links.txt
+mypackage/module_global.egg-info/requires.txt
+mypackage/module_global.egg-info/top_level.txt
+mypackage/output_packages/__init__.py
+mypackage/output_packages/greet.py
